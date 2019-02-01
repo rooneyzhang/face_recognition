@@ -1,0 +1,6 @@
+{
+    "server_url": "127.0.0.1",
+    "server_port": "8765",
+    "data_file": "package.JSON",
+    "help_cmd":"help"
+ }
